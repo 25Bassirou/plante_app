@@ -1,0 +1,9 @@
+streamlit
+pandas == 2.2.2
+numpy
+scikit-learn
+joblib
+seaborn
+sklearn
+matplotlib
+meteostat
